@@ -1,0 +1,25 @@
+.speedDial1 {
+  position: fixed;
+ 
+  top: 1vmax;
+  text-shadow: rgb(1, 20, 22) 2px 5px 8px;
+  text-decoration: none;
+  font-family: cursive;
+  font-size: larger;
+ 
+}
+.speedDial2 {
+    position: fixed;
+    left: 8vmax;
+    top: 4vmax;
+    text-shadow: rgb(71, 234, 255) 2px 2px 8px;
+  text-decoration: none;
+  font-family: cursive;
+  font-size: larger; 
+  }
+  .speedDial3 {
+    position: fixed;
+    left: 7vmax;
+    top: 1.5vmax;
+   
+  }
